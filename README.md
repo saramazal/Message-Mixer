@@ -10,6 +10,7 @@ and displays the encrypted message to the console.
    * A “Reverse Cipher” in which each word of the input message is reversed in place.
 
 ## Code Examples
+![message-mixer](https://github.com/saramazal/Message-Mixer/blob/main/message-mixer.png)
    
    ## My study project.  
    
