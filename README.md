@@ -8,5 +8,8 @@ and displays the encrypted message to the console.
    * A “Caesar Cipher” in which the characters of the input message are shifted alphabetically by a given amount.
    * A “Symbol Cipher” in which select characters from the input message are replaced with visually similar symbols.
    * A “Reverse Cipher” in which each word of the input message is reversed in place.
+
+## Code Examples
    
-   My study project.  
+   ## My study project.  
+   
