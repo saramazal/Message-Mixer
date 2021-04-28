@@ -12,7 +12,8 @@ and displays the encrypted message to the console.
 ## Code Examples
 ![message-mixer](https://github.com/saramazal/Message-Mixer/blob/main/message-mixer.png)
    
-   ## My study project.  
+   ## My study project. 
+   [Codecademy](https://www.codecademy.com/profiles/saramazal)
    
    ## Who can read what is written here: 
    * Qc reqi mw Weve Qedep.
